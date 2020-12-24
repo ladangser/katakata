@@ -8,4 +8,6 @@ const ql = quotes.length; // mengambil jumlah index pada array quotes
 const x = Math.random() * ql; // membuat angka acak dengan max sesuai panjang array quotes
 const random_num = Math.floor(x); // membulatkan angka kebawah
 
-console.log(quotes[random_num]); // menampilkan hasil
+function katakata() {
+	console.log(quotes[random_num]); // menampilkan hasil
+}
