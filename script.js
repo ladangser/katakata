@@ -1,3 +1,5 @@
+console.log('-- Quotes Acak Ladangser --');
+
 const quotes = [
 	{isi: 'Ini adalah jalan ninjaku',
 	 pemilik: 'Nartoh'},
