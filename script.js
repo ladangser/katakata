@@ -1,6 +1,9 @@
 const quotes = [
-	'Ini adalah jalan ninjaku (Uzumaki Naruto)',
-	'Berjalanlah dan terus tertawa (Nidji)',
+	{isi: 'Ini adalah jalan ninjaku',
+	 pemilik: 'Nartoh'},
+	
+	{isi: 'Berjalanlah dan terus tertawa',
+	 pemilik: 'Nidji'}
 ];
 
 
